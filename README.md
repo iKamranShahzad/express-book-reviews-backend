@@ -1,4 +1,4 @@
-# Express Book Reviews Backend
+# Express Book Reviews Backend - Demo Project
 
 A RESTful API for a book review system with user authentication using Express.js and JWT.
 
